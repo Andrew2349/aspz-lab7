@@ -1,0 +1,6 @@
+hello task7_3
+world
+happy 
+true
+hello world
+hello Kyiv
